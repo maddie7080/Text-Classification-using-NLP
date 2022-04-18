@@ -24,7 +24,7 @@ between client and business executive.
 3.The classification rate were quite low for the converted customer as there was very low amount of records as compared to non converted customer.
 4.To overcome the above challenege we used data augumentation technique.We used Contextual Word embedding based upon the bert based uncased model which incerased classification rate from 1% to 75% and accuracy score from 81% to 95%.
 ## Result and Conclusion
-We were able to deliever the real time solution for the given problem also able to increase the conversion ratio from 10% to 55% signinficantly which added increase in the ROI of the company.
+We were able to deliever the real time solution for the given problem also able to increase the conversion ratio.
 ## Result before the Word Augumentation
 ![image](https://user-images.githubusercontent.com/99955096/157226796-d6cb9905-746b-4ce1-9ba2-8e5454e1b49d.png)
 ## Result after the augumentation
